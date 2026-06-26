@@ -65,7 +65,6 @@
 
 > ⚠️ **One-time setup needed** — create the file `.github/workflows/snake.yml` in your `diggaj0912/diggaj0912` repo with the content below, then the snake will auto-generate and this image will work:
 
-```yaml
 name: Generate Snake
 
 on:
@@ -90,7 +89,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ![Snake Animation](https://raw.githubusercontent.com/diggaj0912/diggaj0912/output/github-contribution-grid-snake-dark.svg)
 
