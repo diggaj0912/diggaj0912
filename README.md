@@ -1,24 +1,70 @@
-# 💫 About Me:
-Serving as a Campus Ambassador at Physics Wallah (PW), driving public engagement, outreach initiatives, and student community development.<br><br>Actively participating in the Google Cloud Arcade Facilitator Program, collaborating with peers to promote cloud learning and practical cloud-based solution development.<br><br>Working as a Public Relations Specialist at GDG on Campus, Gurugram University, strengthening relationships within the tech ecosystem and promoting developer-focused initiatives.<br><br>Pursuing B.Tech in Artificial Intelligence at Gurugram University, while working as a Frontend Web Developer at NQ-Swap, building responsive, scalable, and user-centric web interfaces.<br><br>Serving as Community Manager at Builder Space, leading community engagement, coordination, and growth initiatives for developer ecosystems.<br><br>Founder of Driftsman, showcasing entrepreneurial leadership in brand strategy and creative execution; skilled in Google App Engine, PHP, Frontend Development, and Public Relations, backed by Google Cloud Architecture certifications and recognition as a National-Level Hackathon Winner, with multilingual proficiency in French, Hindi, and English.
+# 👋 Hey there, I'm Diggaj
 
+### 🚀 Developer Relations Engineer | AI & Developer Ecosystems
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_diggaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diggaj-sharma-575110266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diggaj912@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Developer+Relations+Engineer;Microsoft+Learn+Student+Ambassador;Google+Student+Ambassador;Community+Builder+%7C+Hackathon+Organizer;AI+%7C+Next.js+%7C+Node.js+%7C+LLM+APIs&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24)](https://github.com/Diggaj)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diggaj0912&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=diggaj0912&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diggaj0912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💫 About Me
+
+- 🧑‍💻 I'm a **Developer Relations Engineer** and **B.Tech AI student** (3rd year), passionate about building developer communities across India.
+- 🌐 I work at **Snorkel AI**, helping developers unlock the power of data-centric AI and LLMs.
+- 🎯 I'm a **Microsoft Learn Student Ambassador** and **Google Student Ambassador** — organizing large-scale hackathons, campus outreach, and developer events nationwide.
+- 🤖 I build with **React, Next.js, Node.js, Python**, and AI/LLM APIs (OpenAI, Anthropic, GCP) to create impactful developer experiences.
+- 🚀 Founder of **DevStorm** | Core team at **Builder's Space**, **Agent Run**, **GDG on Campus**, and **Google Cloud Arcade**.
+
+[![divider](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)](https://github.com/yusufyusie/yusufyusie/blob/main/line.gif)
+
+## 🧠 Languages & Tools
+
+<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="48" height="48" title="TypeScript"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="48" height="48" title="React"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="48" height="48" title="Next.js"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" width="48" height="48" title="Node.js"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="48" height="48" title="Python"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="48" height="48" title="HTML5"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="48" height="48" title="CSS3"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="48" height="48" title="Azure"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" title="Google Cloud"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="48" height="48" title="Docker"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="48" height="48" title="Git"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="48" height="48" title="GitHub"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" width="48" height="48" title="VS Code"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="48" height="48" title="Linux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="48" height="48" title="OpenAI"/>
+
+[![divider](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)](https://github.com/yusufyusie/yusufyusie/blob/main/line.gif)
+
+## 🌍 Connect With Me
+
+|  |  |  |
+| --- | --- | --- |
+| [🔗 LinkedIn](https://www.linkedin.com/in/diggaj) | [📧 Email](mailto:diggaj@example.com) | [🐦 Twitter / X](https://twitter.com/diggaj) |
+
+> ⚠️ **Replace the links above** with your actual LinkedIn, email, and Twitter/X URLs before publishing!
+
+[![divider](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)](https://github.com/yusufyusie/yusufyusie/blob/main/line.gif)
+
+## 📊 GitHub Stats
+
+![Diggaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diggaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Diggaj's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Diggaj&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diggaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diggaj&theme=tokyo-night&hide_border=true)
+
+[![divider](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)](https://github.com/yusufyusie/yusufyusie/blob/main/line.gif)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diggaj0912&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=diggaj0912&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub Trophies](https://github-profile-trophy-ahmed.vercel.app/?username=Diggaj&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3)](https://github-profile-trophy.vercel.app/?username=Diggaj&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
----
-[![](https://visitcount.itsvg.in/api?id=diggaj0912&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Contribution Snake
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake Animation](https://raw.githubusercontent.com/Diggaj/Diggaj/output/github-contribution-grid-snake-dark.svg)
+
+[![divider](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)](https://github.com/yusufyusie/yusufyusie/blob/main/line.gif)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diggaj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
